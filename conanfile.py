@@ -12,4 +12,5 @@ class Delegate(ConanFile):
     def package(self):
         self.copy("*.h")
         self.copy("CMakeLists.txt")
+        self.copy("LICENSE.txt")
 
