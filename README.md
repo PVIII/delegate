@@ -1,5 +1,7 @@
 # The Impossibly Fast C++ Delegates
 
+[![Build Status](https://travis-ci.com/PVIII/delegate.svg?branch=master)](https://travis-ci.com/PVIII/delegate)
+
 This repository packages "The Impossibly Fast C++ Delegates, Fixed" by 
 [Sergey Alexandrovich Kryukov](https://www.codeproject.com/script/Membership/View.aspx?mid=2291164) as described on [Code Project](https://www.codeproject.com/Articles/1170503/The-Impossibly-Fast-Cplusplus-Delegates-Fixed).
 
