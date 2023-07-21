@@ -1,6 +1,7 @@
 # The Impossibly Fast C++ Delegates
 
 [![Build Status](https://travis-ci.com/PVIII/delegate.svg?branch=master)](https://travis-ci.com/PVIII/delegate)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FPVIII%2Fdelegate.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FPVIII%2Fdelegate?ref=badge_shield)
 
 This repository packages "The Impossibly Fast C++ Delegates, Fixed" by 
 [Sergey Alexandrovich Kryukov](https://www.codeproject.com/script/Membership/View.aspx?mid=2291164) as described on [Code Project](https://www.codeproject.com/Articles/1170503/The-Impossibly-Fast-Cplusplus-Delegates-Fixed).
@@ -37,9 +38,11 @@ This package is versioned using [SemVer](http://semver.org/).
 
 This project is licensed under the MIT License - see the [LICENSE.txt](LICENSE.txt) file for details.
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FPVIII%2Fdelegate.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FPVIII%2Fdelegate?ref=badge_large)
+
 ## Acknowledgements
 
 * Don Clugston
 * Sergey Ryazanov
 * Sergey Alexandrovich Kryukov
-
